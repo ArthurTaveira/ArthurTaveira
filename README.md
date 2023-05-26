@@ -1,4 +1,5 @@
 ### Hi there , meu Nome é Arthur, sou estudande de programação!
+🌱 Atualmente estou aprendendo : Javascript
 
 <!--
 **ArthurTaveira/ArthurTaveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurTaveira&show_icons=true&theme=slateorange&rank_icon=github&count_private=true&include_all_commits=true")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTaveira&layout=compact&theme=slateorange)](https://github.com/ArthurTaveira/github-readme-stats)
 
