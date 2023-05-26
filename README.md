@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/ArthurTaveira/ArthurTaveira//README.md">
   <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTaveira&layout=compact&theme=slateorange)](https://github.com/ArthurTaveira/github-readme-stats)" />
 </a>
+
+![Snake animation](https://github.com/ArthurTaveira)
