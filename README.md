@@ -1,4 +1,4 @@
-### Hi there , meu Nome é Arthur, sou estudande de programação!
+### Hi there , meu Nome é Arthur, sou estudante de programação!
 🌱 Atualmente estou aprendendo : Javascript
 
 <!--
