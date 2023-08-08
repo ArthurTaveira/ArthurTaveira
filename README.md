@@ -1,5 +1,5 @@
 ### Hi there , meu Nome é Arthur, sou estudante de programação!
-🌱 Atualmente estou aprendendo : Javascript e React
+🌱 Atualmente estou aprendendo : Vue e Node
 
 <!--
 **ArthurTaveira/ArthurTaveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
