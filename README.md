@@ -13,21 +13,7 @@
   <h3 align="center">Tecnologias</h3>
   
   <div align="center">
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=VueJS-Light" height="30" alt="vue logo"  />
-    <img width="2" />
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </div>
 </kbd>
 
