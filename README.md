@@ -26,6 +26,8 @@
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
     <img width="2" />
+    <img src="https://skillicons.dev/icons?i=Vue" height="30" alt="vue logo"  />
+    <img width="2" />
   </div>
 </kbd>
 
