@@ -14,7 +14,13 @@
   
   <div align="center">
     
+  <img width="2" />
+
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,bootstrap,sass,ts)](https://skillicons.dev)
+
+   
+  <img width="2" />
+
    
   </div>
 </kbd>
