@@ -1,5 +1,5 @@
-### Hi there , meu Nome é Arthur, sou estudante de programação!
-🌱 Atualmente estou aprendendo : Vue e Node
+### Hi there , meu Nome é Arthur, sou estudante de Engenheria Elétrica da UFCG
+🌱 Atualmente estou aprendendo : RAG
 
 <div align="center">
   
