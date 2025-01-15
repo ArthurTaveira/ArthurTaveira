@@ -1,5 +1,5 @@
-### Hi there , meu Nome é Arthur, sou estudante de Engenheria Elétrica da UFCG
-🌱 Atualmente estou aprendendo : RAG
+###m Meu Nome é Arthur, Atualmente Graduando em Engenheria Elétrica da UFCG - Campus sede / Bolsita CNPP / WEBMASTER PELS-IAS do IEEE (R9)
+🌱 Atualmente estou aprendendo : Aplicações de Retrieval Augmented Generation em Chatbots com bases de LLMs
 
 <div align="center">
   
